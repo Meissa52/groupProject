@@ -1,0 +1,40 @@
+#siteLogo {
+	max-height: 80%;
+	margin-top: 5px;
+}
+
+#sidebar {
+    float: left;
+    width: 150px;
+    margin-left: 10px;
+    position: fixed;
+}
+ 
+#scheduleScroll {
+	width: 150px;
+	margin-left:90%;
+	margin-top: 50px;
+	position: fixed;
+}
+
+#roomTables {
+	max-width:95%;
+}
+
+#roomTables td {
+	width: 15%;
+}
+
+.tableData {
+	border-style: solid;
+}
+
+#updateButton {
+	background-color: #1a237e;
+	color: white;
+}
+
+#deleteButton {
+	background-color: red;
+	color: white;
+}
